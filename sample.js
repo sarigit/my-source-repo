@@ -1,3 +1,2 @@
 //sample file
-//star
-//india
+//editing
